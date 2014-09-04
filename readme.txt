@@ -4,7 +4,7 @@ Contributors: goodevilgenius
 Plugin URI: https://github.com/goodevilgenius/feed-post-writer
 Tags: rss, feed, posts
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 License: MIT
 License URI: http://directory.fsf.org/wiki/License:Expat
